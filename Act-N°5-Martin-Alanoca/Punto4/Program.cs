@@ -26,8 +26,8 @@ namespace Punto4
                 Promedio_M, Promedio_T, Promedio_N;
             String Linea;
             Turno_M = 20;
-            Turno_N = 30;
-            Turno_T = 15;
+            Turno_N = 15;
+            Turno_T = 30;
             int Suma_M = 0;
             int Suma_T = 0;
             int Suma_N = 0;
