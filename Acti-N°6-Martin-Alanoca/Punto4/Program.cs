@@ -8,6 +8,9 @@ namespace Punto4
 {
     internal class Calculadora
     {
+        //4. Implementar la clase operaciones. Se deben cargar dos valores enteros,
+        //calcular su suma, resta, multiplicación y división, cada una en un método,
+        //imprimir dichos resultados.
         private int num1, num2;
         string Linea;
 

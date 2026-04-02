@@ -8,7 +8,13 @@ namespace Punto1
         public String Linea;
 
         public void Iniciar()
-        {
+        {   
+            //1. Desarrollar una clase que represente un punto en el plano y tenga los
+            //siguientes métodos: cargar los valores de x e y, imprimir en que cuadrante se
+            //encuentra dicho punto (concepto matemático, primer cuadrante si x e y son
+            //positivas, si x&lt;0 e y&gt;0 segundo cuadrante, etc.)//
+
+
             Console.WriteLine("Ingrese coordenas 'y' y 'x' ");
             Console.Write("Coordenada y: ");
             Linea = Console.ReadLine();

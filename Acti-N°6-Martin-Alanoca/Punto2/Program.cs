@@ -6,10 +6,13 @@ using System.Threading.Tasks;
 
 namespace Punto2
 {
-   
+
 
     internal class Cuadrado
     {
+        //2. Desarrollar una clase que represente un Cuadrado y tenga los siguientes
+        //métodos: cargar el valor de su lado, imprimir su perímetro y su superficie.
+
         private double lado;
         private String Linea;
 
