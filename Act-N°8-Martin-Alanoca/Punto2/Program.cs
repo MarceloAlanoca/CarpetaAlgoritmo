@@ -32,8 +32,19 @@ namespace Punto2
 
         public void Ordenando()
         {
-            Array.Sort(Pais);
-            
+            for (int i = 0; i < 5; i++)
+            {
+                for (int j = i + 1; j < 5; j++)
+                {
+                    if (Pais[i].CompareTo(Pais[j]) > 0)
+                    {
+                        String auxiliarP = Pais[i];
+                        Pais[i] = Pais[j];
+                        Pais[j] = auxiliarP;
+                    }
+                }
+            }
+
         }
         
         public void MostrarValores()
