@@ -24,31 +24,29 @@ namespace Punto4
             //b) La suma total de los saldos acreedores.
 
 
-            int valor, Dinero;
-            string Numero_cuenta, saldo;
+            int valor, dinero;
             int sumaAcreedores = 0;
-
+            string Linea;
             Console.WriteLine("Ingrese datos");
 
             do
             {
                 Console.WriteLine("Numero de cuenta:");
-                Numero_cuenta = Console.ReadLine();
-                valor = int.Parse(Numero_cuenta);
+                Linea = Console.ReadLine();
+                valor = int.Parse(Linea);
 
                 if (valor >= 0)
                 {
                     Console.WriteLine("Saldo de cuenta:");
-                    saldo = Console.ReadLine();
-                    Dinero = int.Parse(saldo);
+                    Linea = Console.ReadLine();
+                    dinero = int.Parse(Linea);
 
-                    
-                    if (Dinero > 0)
+                    if (dinero > 0)
                     {
                         Console.WriteLine("Cuenta: " + valor + " - Estado: Acreedor");
-                        sumaAcreedores += Dinero;
+                        sumaAcreedores += dinero;
                     }
-                    else if (Dinero < 0)
+                    else if (dinero < 0)
                     {
                         Console.WriteLine("Cuenta: " + valor + " - Estado: Deudor");
                     }
@@ -58,10 +56,10 @@ namespace Punto4
                     }
                 }
 
-            } while (valor <= 0);
+            } while (valor >= 0);
 
             Console.WriteLine("Total de saldos acreedores: " + sumaAcreedores);
-
+            Console.ReadKey();
         }
     }
 }

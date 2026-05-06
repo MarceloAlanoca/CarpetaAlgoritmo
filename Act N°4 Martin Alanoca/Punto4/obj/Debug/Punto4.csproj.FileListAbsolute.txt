@@ -12,3 +12,10 @@ C:\Users\alano\OneDrive\Escritorio\Act N°4 Martin Alanoca\Punto4\obj\Debug\Punt
 C:\Users\alano\OneDrive\Escritorio\Act N°4 Martin Alanoca\Punto4\obj\Debug\Punto4.csproj.CoreCompileInputs.cache
 C:\Users\alano\OneDrive\Escritorio\Act N°4 Martin Alanoca\Punto4\obj\Debug\Punto4.exe
 C:\Users\alano\OneDrive\Escritorio\Act N°4 Martin Alanoca\Punto4\obj\Debug\Punto4.pdb
+C:\Users\alano\OneDrive\Escritorio\CarpetaAlgoritmo\Act N°4 Martin Alanoca\Punto4\bin\Debug\Punto4.exe.config
+C:\Users\alano\OneDrive\Escritorio\CarpetaAlgoritmo\Act N°4 Martin Alanoca\Punto4\bin\Debug\Punto4.exe
+C:\Users\alano\OneDrive\Escritorio\CarpetaAlgoritmo\Act N°4 Martin Alanoca\Punto4\bin\Debug\Punto4.pdb
+C:\Users\alano\OneDrive\Escritorio\CarpetaAlgoritmo\Act N°4 Martin Alanoca\Punto4\obj\Debug\Punto4.csproj.AssemblyReference.cache
+C:\Users\alano\OneDrive\Escritorio\CarpetaAlgoritmo\Act N°4 Martin Alanoca\Punto4\obj\Debug\Punto4.csproj.CoreCompileInputs.cache
+C:\Users\alano\OneDrive\Escritorio\CarpetaAlgoritmo\Act N°4 Martin Alanoca\Punto4\obj\Debug\Punto4.exe
+C:\Users\alano\OneDrive\Escritorio\CarpetaAlgoritmo\Act N°4 Martin Alanoca\Punto4\obj\Debug\Punto4.pdb

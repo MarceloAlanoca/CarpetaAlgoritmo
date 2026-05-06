@@ -1,0 +1,14 @@
+C:\Users\alano\source\repos\Act N°3-Martin-Alanoca\Punto2\bin\Debug\Punto2.exe.config
+C:\Users\alano\source\repos\Act N°3-Martin-Alanoca\Punto2\bin\Debug\Punto2.exe
+C:\Users\alano\source\repos\Act N°3-Martin-Alanoca\Punto2\bin\Debug\Punto2.pdb
+C:\Users\alano\source\repos\Act N°3-Martin-Alanoca\Punto2\obj\Debug\Punto2.csproj.AssemblyReference.cache
+C:\Users\alano\source\repos\Act N°3-Martin-Alanoca\Punto2\obj\Debug\Punto2.csproj.CoreCompileInputs.cache
+C:\Users\alano\source\repos\Act N°3-Martin-Alanoca\Punto2\obj\Debug\Punto2.exe
+C:\Users\alano\source\repos\Act N°3-Martin-Alanoca\Punto2\obj\Debug\Punto2.pdb
+C:\Users\alano\OneDrive\Escritorio\CarpetaAlgoritmo\Act N°3-Martin-Alanoca\Act N°3-Martin-Alanoca\Punto2\bin\Debug\Punto2.exe.config
+C:\Users\alano\OneDrive\Escritorio\CarpetaAlgoritmo\Act N°3-Martin-Alanoca\Act N°3-Martin-Alanoca\Punto2\bin\Debug\Punto2.exe
+C:\Users\alano\OneDrive\Escritorio\CarpetaAlgoritmo\Act N°3-Martin-Alanoca\Act N°3-Martin-Alanoca\Punto2\bin\Debug\Punto2.pdb
+C:\Users\alano\OneDrive\Escritorio\CarpetaAlgoritmo\Act N°3-Martin-Alanoca\Act N°3-Martin-Alanoca\Punto2\obj\Debug\Punto2.csproj.AssemblyReference.cache
+C:\Users\alano\OneDrive\Escritorio\CarpetaAlgoritmo\Act N°3-Martin-Alanoca\Act N°3-Martin-Alanoca\Punto2\obj\Debug\Punto2.csproj.CoreCompileInputs.cache
+C:\Users\alano\OneDrive\Escritorio\CarpetaAlgoritmo\Act N°3-Martin-Alanoca\Act N°3-Martin-Alanoca\Punto2\obj\Debug\Punto2.exe
+C:\Users\alano\OneDrive\Escritorio\CarpetaAlgoritmo\Act N°3-Martin-Alanoca\Act N°3-Martin-Alanoca\Punto2\obj\Debug\Punto2.pdb

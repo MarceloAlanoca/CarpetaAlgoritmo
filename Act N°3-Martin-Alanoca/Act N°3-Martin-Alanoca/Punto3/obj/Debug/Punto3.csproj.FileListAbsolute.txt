@@ -1,0 +1,7 @@
+C:\Users\alano\source\repos\Act N°3-Martin-Alanoca\Punto3\bin\Debug\Punto3.exe.config
+C:\Users\alano\source\repos\Act N°3-Martin-Alanoca\Punto3\bin\Debug\Punto3.exe
+C:\Users\alano\source\repos\Act N°3-Martin-Alanoca\Punto3\bin\Debug\Punto3.pdb
+C:\Users\alano\source\repos\Act N°3-Martin-Alanoca\Punto3\obj\Debug\Punto3.csproj.AssemblyReference.cache
+C:\Users\alano\source\repos\Act N°3-Martin-Alanoca\Punto3\obj\Debug\Punto3.csproj.CoreCompileInputs.cache
+C:\Users\alano\source\repos\Act N°3-Martin-Alanoca\Punto3\obj\Debug\Punto3.exe
+C:\Users\alano\source\repos\Act N°3-Martin-Alanoca\Punto3\obj\Debug\Punto3.pdb
