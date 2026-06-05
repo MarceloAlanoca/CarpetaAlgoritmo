@@ -52,7 +52,6 @@ namespace Punto3
         public void MayorSocio()
         {
             int mayor = 0;
-            string nombre = "void";
             int antiguedad1 = socio1.returnantiguedad();
             int antiguedad2 = socio2.returnantiguedad();
             int antiguedad3 = socio3.returnantiguedad();
