@@ -1,0 +1,14 @@
+C:\Users\alumno.ET26\Documents\Proyectos C#\Act-N°17-Martin-Alanoca\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\alumno.ET26\Documents\Proyectos C#\Act-N°17-Martin-Alanoca\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\alumno.ET26\Documents\Proyectos C#\Act-N°17-Martin-Alanoca\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\alumno.ET26\Documents\Proyectos C#\Act-N°17-Martin-Alanoca\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\alumno.ET26\Documents\Proyectos C#\Act-N°17-Martin-Alanoca\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\alumno.ET26\Documents\Proyectos C#\Act-N°17-Martin-Alanoca\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\alumno.ET26\Documents\Proyectos C#\Act-N°17-Martin-Alanoca\Ejercicio1\obj\Debug\Ejercicio1.pdb
+C:\Users\alumno.ET26\source\repos\Act-N°17-Martin-Alanoca\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\alumno.ET26\source\repos\Act-N°17-Martin-Alanoca\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\alumno.ET26\source\repos\Act-N°17-Martin-Alanoca\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\alumno.ET26\source\repos\Act-N°17-Martin-Alanoca\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\alumno.ET26\source\repos\Act-N°17-Martin-Alanoca\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\alumno.ET26\source\repos\Act-N°17-Martin-Alanoca\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\alumno.ET26\source\repos\Act-N°17-Martin-Alanoca\Ejercicio1\obj\Debug\Ejercicio1.pdb
