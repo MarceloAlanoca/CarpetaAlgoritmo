@@ -1,0 +1,7 @@
+C:\Users\alano\source\repos\Act-N°22-Martin-Alanoca\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\alano\source\repos\Act-N°22-Martin-Alanoca\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\alano\source\repos\Act-N°22-Martin-Alanoca\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\alano\source\repos\Act-N°22-Martin-Alanoca\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\alano\source\repos\Act-N°22-Martin-Alanoca\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\alano\source\repos\Act-N°22-Martin-Alanoca\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\alano\source\repos\Act-N°22-Martin-Alanoca\Ejercicio3\obj\Debug\Ejercicio3.pdb
