@@ -1,0 +1,7 @@
+C:\Users\alumno.ET26\source\repos\Act-N°23-Martin-Alanoca\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\alumno.ET26\source\repos\Act-N°23-Martin-Alanoca\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\alumno.ET26\source\repos\Act-N°23-Martin-Alanoca\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\alumno.ET26\source\repos\Act-N°23-Martin-Alanoca\Ejercicio2\obj\Debug\Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\alumno.ET26\source\repos\Act-N°23-Martin-Alanoca\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\alumno.ET26\source\repos\Act-N°23-Martin-Alanoca\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\alumno.ET26\source\repos\Act-N°23-Martin-Alanoca\Ejercicio2\obj\Debug\Ejercicio2.pdb
