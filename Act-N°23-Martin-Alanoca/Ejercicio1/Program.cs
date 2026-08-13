@@ -82,34 +82,34 @@ namespace Ejercicio1
                 Documentos.Add(Doc);
             }
             Console.WriteLine("se guardo correctamente en la lista");
+            Console.WriteLine();
         }
-        public void ImprimirSiguiente()
+        public void ImprimirSiguiente() 
         {
-            if (Documentos.Count == 0) 
+            if (Documentos.Count > 0)
             {
-                Documento doc = Documentos[0];
-                Console.WriteLine($"nombre: {doc.NombreArchivo}");
-
-                Console.WriteLine($"Cantidad de Paginas: {doc.CantidadPaginas}");
-
-                Documentos.RemoveAt(0);
-
-            }
+                Console.WriteLine("Imprimiendo el primer documento");
+                Documento doc = Documentos[0]; 
+                Console.WriteLine("Documento a imprimir:"); 
+                Console.WriteLine($"Nombre: {doc.NombreArchivo}"); 
+                Console.WriteLine($"Cantidad de páginas: {doc.CantidadPaginas}"); 
+                Documentos.RemoveAt(0); Console.WriteLine("Documento impreso correctamente."); 
+            } 
             else 
-            {
-                Console.WriteLine("no hay tareas pendientes");
+            { 
+                Console.WriteLine("No hay tareas pendientes."); 
             }
+            Console.WriteLine();
         }
-        public void MostrarColaPendiente()
+        public void MostrarColaPendiente() 
         {
-            
-            foreach (Documento D in Documentos)
-            {
-                Console.WriteLine($"nombre: {D.NombreArchivo}");
-
-                Console.WriteLine($"Cantidad de Paginas: {D.CantidadPaginas}");
-
-            }
+            foreach (Documento D in Documentos) 
+            { 
+                Console.WriteLine($"Nombre: {D.NombreArchivo}"); 
+                Console.WriteLine($"Cantidad de páginas: {D.CantidadPaginas}"); 
+                totalPaginas += D.CantidadPaginas; 
+            } 
+            Console.WriteLine($"Total de páginas pendientes: {totalPaginas}"); 
         }
         static void Main(string[] args)
         {

@@ -5,3 +5,10 @@ C:\Users\alumno.ET26\source\repos\Act-N°23-Martin-Alanoca\Ejercicio2\obj\Debug\
 C:\Users\alumno.ET26\source\repos\Act-N°23-Martin-Alanoca\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
 C:\Users\alumno.ET26\source\repos\Act-N°23-Martin-Alanoca\Ejercicio2\obj\Debug\Ejercicio2.exe
 C:\Users\alumno.ET26\source\repos\Act-N°23-Martin-Alanoca\Ejercicio2\obj\Debug\Ejercicio2.pdb
+D:\Visual Studio\CarpetaAlgoritmo\Act-N°23-Martin-Alanoca\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+D:\Visual Studio\CarpetaAlgoritmo\Act-N°23-Martin-Alanoca\Ejercicio2\bin\Debug\Ejercicio2.exe
+D:\Visual Studio\CarpetaAlgoritmo\Act-N°23-Martin-Alanoca\Ejercicio2\bin\Debug\Ejercicio2.pdb
+D:\Visual Studio\CarpetaAlgoritmo\Act-N°23-Martin-Alanoca\Ejercicio2\obj\Debug\Ejercicio2.csproj.AssemblyReference.cache
+D:\Visual Studio\CarpetaAlgoritmo\Act-N°23-Martin-Alanoca\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+D:\Visual Studio\CarpetaAlgoritmo\Act-N°23-Martin-Alanoca\Ejercicio2\obj\Debug\Ejercicio2.exe
+D:\Visual Studio\CarpetaAlgoritmo\Act-N°23-Martin-Alanoca\Ejercicio2\obj\Debug\Ejercicio2.pdb

@@ -1,0 +1,7 @@
+D:\Visual Studio\CarpetaAlgoritmo\Act-N°23-Martin-Alanoca\Ejercicio6\bin\Debug\Ejercicio6.exe.config
+D:\Visual Studio\CarpetaAlgoritmo\Act-N°23-Martin-Alanoca\Ejercicio6\bin\Debug\Ejercicio6.exe
+D:\Visual Studio\CarpetaAlgoritmo\Act-N°23-Martin-Alanoca\Ejercicio6\bin\Debug\Ejercicio6.pdb
+D:\Visual Studio\CarpetaAlgoritmo\Act-N°23-Martin-Alanoca\Ejercicio6\obj\Debug\Ejercicio6.csproj.AssemblyReference.cache
+D:\Visual Studio\CarpetaAlgoritmo\Act-N°23-Martin-Alanoca\Ejercicio6\obj\Debug\Ejercicio6.csproj.CoreCompileInputs.cache
+D:\Visual Studio\CarpetaAlgoritmo\Act-N°23-Martin-Alanoca\Ejercicio6\obj\Debug\Ejercicio6.exe
+D:\Visual Studio\CarpetaAlgoritmo\Act-N°23-Martin-Alanoca\Ejercicio6\obj\Debug\Ejercicio6.pdb

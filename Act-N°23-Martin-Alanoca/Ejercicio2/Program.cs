@@ -103,6 +103,7 @@ namespace Ejercicio2
         }
         public void ListarFlota()
         {
+            Console.WriteLine("=== LISTA DE DRONES ===");
             foreach (Dron DN in D_drom)
             {
                 
@@ -116,36 +117,29 @@ namespace Ejercicio2
         }
         public void RemoverDronesBajos()
         {
-            /*
-            for (int i = 0; i < D_drom.Count; i++)
+            for (int i = D_drom.Count - 1; i >= 0; i--)
             {
-                
-                
-                
+                if (D_drom[i].NivelBateria <= 15)
+                {
+                    Console.WriteLine($"El dron {D_drom[i].Codigo} necesita mantenimiento.");
                     D_drom.RemoveAt(i);
-                    Console.WriteLine("Este dron nesecita mantenimiento");
-
-                
+                }
             }
-            */
-            
+            Console.WriteLine();
         }
         public void MostrarDronesRestantes()
         {
 
-            Console.WriteLine("===Mostrando Drones Restantes==="); 
+            Console.WriteLine("=== DRONES RESTANTES ===");
+
             foreach (Dron DN in D_drom)
             {
-
-
-                for (int i = 0; i < D_drom.Count;  ++i) 
-                {
-                    Console.WriteLine($"Codigo del dron: {DN.Codigo}");
-
-                    Console.WriteLine($"Porcentaje de bateria del dron: {DN.NivelBateria}");
-                }
+                Console.WriteLine($"Codigo del dron: {DN.Codigo}");
+                Console.WriteLine($"Porcentaje de bateria: {DN.NivelBateria}%");
+                Console.WriteLine();
             }
-            Console.WriteLine();
+
+            Console.WriteLine($"Cantidad de drones operativos: {D_drom.Count}");
         }
         static void Main(string[] args)
         {

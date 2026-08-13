@@ -1,0 +1,7 @@
+D:\Visual Studio\CarpetaAlgoritmo\Act-N°23-Martin-Alanoca\Ejercicio5\bin\Debug\Ejercicio5.exe.config
+D:\Visual Studio\CarpetaAlgoritmo\Act-N°23-Martin-Alanoca\Ejercicio5\bin\Debug\Ejercicio5.exe
+D:\Visual Studio\CarpetaAlgoritmo\Act-N°23-Martin-Alanoca\Ejercicio5\bin\Debug\Ejercicio5.pdb
+D:\Visual Studio\CarpetaAlgoritmo\Act-N°23-Martin-Alanoca\Ejercicio5\obj\Debug\Ejercicio5.csproj.AssemblyReference.cache
+D:\Visual Studio\CarpetaAlgoritmo\Act-N°23-Martin-Alanoca\Ejercicio5\obj\Debug\Ejercicio5.csproj.CoreCompileInputs.cache
+D:\Visual Studio\CarpetaAlgoritmo\Act-N°23-Martin-Alanoca\Ejercicio5\obj\Debug\Ejercicio5.exe
+D:\Visual Studio\CarpetaAlgoritmo\Act-N°23-Martin-Alanoca\Ejercicio5\obj\Debug\Ejercicio5.pdb
